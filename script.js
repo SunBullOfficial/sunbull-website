@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
-  // LINK ATUALIZADO: Vai para a página inicial por enquanto
-  const BUY_URL = 'https://sunpump.meme';
+  // LINK OFICIAL
+  const BUY_URL = 'https://sunpump.meme/token/TRf6jMYtttHajgNtYqiUV88fzqUA64jwiF?utm_source=tokenpocket';
 
   // Language toggle functionality
   const btnEn = document.getElementById('btn-en');
